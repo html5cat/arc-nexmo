@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@architect/workflows": "^2.11.4"
+    "@architect/workflows": "^2.11.10"
   }
 }
