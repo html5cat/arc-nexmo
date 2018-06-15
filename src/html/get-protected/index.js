@@ -12,7 +12,7 @@ function protect(req, res, next) {
 }
 
 function attack(req, res) {
-  var msg = 'oh hai you must be logged in to see me!'
+  var msg = 'Oh hai. Welcome to the protected area. Here are all the secrets.'
   var logout = `<a href=${req._url('/logout')}>logout</a>`
   res({
     html: `${msg} ${logout}`
