@@ -1,0 +1,7 @@
+{
+  "name": "arc-nexmo-post-notes",
+  "dependencies": {
+    "@architect/data": "^2.0.2",
+    "@architect/functions": "^1.8.10"
+  }
+}
